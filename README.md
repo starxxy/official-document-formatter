@@ -56,6 +56,7 @@
 
 ```
 official-document-formatter/
+├── LICENSE           开源许可证（Apache-2.0）
 ├── SKILL.md          Skill 定义与使用说明
 ├── config/           公文格式参数配置
 ├── scripts/          核心脚本（字体管理 / 标题识别 / 文档处理 / 格式化入口）
@@ -64,7 +65,7 @@ official-document-formatter/
 
 ### 六、许可说明
 
-开源免费使用。内置方正字体版权归方正字库所有，商业使用请购买正版授权。
+本项目基于 **Apache-2.0** 开源协议发布，可自由使用、修改与分发。内置方正字体版权归方正字库所有，商业使用请购买正版授权。
 
 ---
 
@@ -124,6 +125,7 @@ official-document-formatter/
 
 ```
 official-document-formatter/
+├── LICENSE           Open source license (Apache-2.0)
 ├── SKILL.md          Skill definition & guide
 ├── config/           Document format parameters
 ├── scripts/          Core scripts (font manager / title detector / doc processor / formatter)
@@ -132,4 +134,4 @@ official-document-formatter/
 
 ### 6. License
 
-Open source, free to use. The bundled Founder fonts are copyrighted by Founder Type; please purchase a license for commercial use.
+This project is released under the **Apache-2.0** License, free to use, modify, and distribute. The bundled Founder fonts are copyrighted by Founder Type; please purchase a license for commercial use.
